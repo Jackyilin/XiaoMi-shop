@@ -3,8 +3,9 @@
 > 这是一个高仿小米商城的项目，本项目仅用于 Vue.js 实战项目的学习。
 
 在线浏览地址：https://jackyilin.github.io/XiaoMi-shop/demo/index.html
+<div align="center">
 <img src="https://github.com/Jackyilin/XiaoMi-shop/blob/master/demo/static/img/1555145544.png" width="60px" height="60px">
-
+</div>
 
 
 ## 写在前面
