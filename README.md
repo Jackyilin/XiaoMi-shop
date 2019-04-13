@@ -4,9 +4,11 @@
 
 在线浏览地址：https://jackyilin.github.io/XiaoMi-shop/demo/index.html
 
-## 写在前面
+<div align="center"><img src="https://github.com/Jackyilin/XiaoMi-shop/blob/master/demo/static/img/1555145544.png" width="60px" height="60px"></div>
 
-  本项目所有用到的全部是目前前端最热门的技术 ! !
+
+
+## 写在前面
 
   通过本项目的学习与研究，掌握css预处理器（less）的用法，router（路由）的用法，还可以加深了解vue-cli（脚手架）的使用，webpack的使用，babel编译代码...等等。
 
@@ -17,7 +19,7 @@
 
 [小米官方商城（web）](http://m.mi.com/)
 
-[小米商城 高仿版](https://beautifulboys.github.io/phone/mi/)
+[小米商城 高仿版](https://jackyilin.github.io/XiaoMi-shop/demo/index.html)
 
 下载体验(下载demo文件夹，双击index.html即可查看)。
 
@@ -66,6 +68,4 @@ npm run dev
 npm run build
 ```
 
-## 说明
 
-  本项目适合有一定vue基础的同学进阶学习，零基础也可以。
