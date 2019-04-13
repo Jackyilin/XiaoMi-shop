@@ -1,6 +1,6 @@
 # XiaoMi-Shop
 
-> 这是一个高仿小米商城的项目，本项目仅用于 Vue.js 实战项目的学习。
+> 这是一个仿造小米商城的项目，本项目仅用于 Vue.js 实战项目的学习。
 
 在线浏览地址：https://jackyilin.github.io/XiaoMi-shop/demo/index.html
 
@@ -13,8 +13,6 @@
 ## 项目预览
 
   用Chrome浏览器 手机模式打开，或者拖拽让浏览器变窄效果更好。自己对比体验一下吧^-^
-
-[小米官方商城（web）](http://m.mi.com/)
 
 [小米商城 高仿版](https://jackyilin.github.io/XiaoMi-shop/demo/index.html)
 
