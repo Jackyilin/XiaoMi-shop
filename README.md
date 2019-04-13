@@ -2,6 +2,8 @@
 
 > 这是一个高仿小米商城的项目，本项目仅用于 Vue.js 实战项目的学习。
 
+在线浏览地址：https://jackyilin.github.io/XiaoMi-shop/demo/index.html
+
 ## 写在前面
 
   本项目所有用到的全部是目前前端最热门的技术 ! !
