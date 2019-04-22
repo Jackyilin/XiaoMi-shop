@@ -12,7 +12,7 @@
 
 ## 项目预览
 
-  用Chrome浏览器 手机模式打开，或者拖拽让浏览器变窄效果更好。自己对比体验一下吧^-^
+  用Chrome浏览器 手机模式打开，或者拖拽让浏览器变窄效果更好 ^-^
 
 [小米商城 高仿版](https://jackyilin.github.io/XiaoMi-shop/demo/index.html)
 
